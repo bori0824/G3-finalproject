@@ -1,16 +1,20 @@
 # 📙 Group 3 Final project 
-+ Last updated (0610 by bori0824)
++ Last updated (0614 by bori0824)
 + Presentation is scheduled on June 18 (Tuesday)
 + Overview of the project here :-)
 
 ## Useful Links
-| 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1](https://huggingface.co/spaces/joonp30/flashcard) | 🔸 [APP#2](https://huggingface.co/spaces/bori0824/ImageUnscrambling) | 🔸 [APP#3](https://huggingface.co/spaces/hannah416/during_comprehension_test) | 🔸 [APP#4](https://jinggujiwoo7-speechfeedback.hf.space) |🔸 [Visual Material#1] |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://huggingface.co/spaces/bori0824/StoryListening) |🔸 [Class Padlet](https://padlet.com/bori0824_1/g3-the-peddler-s-magic-seeds-ki70fzt0l3efj311) | 
+| 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1](https://huggingface.co/spaces/joonp30/flashcard) | 🔸 [APP#2](https://huggingface.co/spaces/bori0824/ImageUnscrambling) | 🔸 [APP#3](https://huggingface.co/spaces/hannah416/during_comprehension_test) | 🔸 [APP#4](https://jinggujiwoo7-speechfeedback.hf.space) |🔸 [Visual Material#1](https://huggingface.co/spaces/bori0824/GettingToKnowtheTopic) |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://huggingface.co/spaces/bori0824/StoryListening) |🔸 [Class Padlet](https://padlet.com/bori0824_1/g3-the-peddler-s-magic-seeds-ki70fzt0l3efj311) | 
 
 ## Lesson Plan
 
 |             Grade            |     Proficiency Level (ACTFL)     |              Time Frame             |
 |------------------------------|-----------------------------------|-------------------------------------|
 |   Middle school 2<sup>nd </sup>grade    |         Intermediate-Low          |   50 mins.   (15 - 25 - 10 mins.)   |
+
+|            Story   |  Target vocabulary   |
+|-----------------------------|-----------------------------|
+| The Peddler's Magic Seeds|quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
 
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
@@ -37,20 +41,20 @@
 ### [Pre-reading activities (15 mins.)]
 **👊 Icebreaking with the Topic (3 mins.)**
 
-**Activity:** Ss share their experiences and thoughts related to the topic introduced by T.
-**App Functionality:**
-**Objective:**
+**Activity:** Students share their experiences and thoughts related to the topic introduced by T. After looking at the topic-related images. Each student will look at the images and briefly describe what they see, what it reminds them of, or how they feel about the scenario depicted.
+**App Functionality:** The app displays the four images from Visual Material #1 and allows students to annotate or add comments to each image. Students can tap on an image and say a short comment about their thoughts and experiences related to that image.
+**Objective:** Encourage students to connect personally with the topic through visual material and facilitate a quick, engaging discussion that sets the stage for the story. This activity aims to activate prior knowledge and stimulate interest in the story by making personal and emotional connections with the visual content.
 
 **🔤 Building Vocabulary (7 mins.)**
 
 **Activity:** Students interact with an app to learn and practice key vocabulary related to the story through flashcards, matching games, or quizzes.
 **App Functionality:** The app provides digital flashcards, interactive matching games, and quizzes that students can complete on their tablets.
-**Objective:** Introduce and practice key vocabulary related to the story, enhancing students’ vocabulary knowledge.
+**Objective:** Introduce and practice key vocabulary related to the story, enhancing students' vocabulary knowledge.
 
 **🎰 Guessing the Story with Images (5 mins.)**
 
-**Activity:** Ss guess the story with the images related to the story. 
-**App Functionality:** This application displays three WordCloud images meaning Intro, Body, and Conclusion and 6 random images of the story. Ss use their tablets to guess and discuss the story with peers and unscramble the random images in the right order after looking at the WordCloud imaages.
+**Activity:** Students guess the story with the images related to the story. 
+**App Functionality:** The app displays three WordCloud images meaning Intro, Body, and Conclusion and 6 random images of the story. Students use their tablets to guess and discuss the story with peers and unscramble the random images in the right order after looking at the WordCloud imaages.
 **Objective:** Encourage students to make predictions about the story and develop inferencing skills.
 
 
@@ -58,14 +62,14 @@
 ### [During-reading activities (25 mins.)]
 **💻 Introduced the Story with a Video (5 mins.)** 
 
-**Activity:** Ss watch a teacher-created video of the full story, taking notes and paying attention to main characters, settings, and events.
+**Activity:** Students watch a teacher-created video of the full story, taking notes and paying attention to main characters, settings, and events.
 **App Functionality:** The video is played on [the interactive whiteboard], and students can access the video on their tablets for closer viewing.
 **Objective:** Provide an overview of the story and introduce the story through visual and auditory learning.
 
 **🔈Understanding the Story with Audio (10 mins.)**
 
-**Activity:** Ss listen to the story in segments and answering the questions provided by T to enhance comprehension on the plot and main elements.
-**App Functionality:** The app plays audio segments of the story [in class by T.] providing Ss with QR code to access on their tablets [when needed].
+**Activity:** Students listen to the story in segments and answering the questions provided by T to enhance comprehension on the plot and main elements.
+**App Functionality:** The app plays audio segments of the story [in class by T.] providing students with QR code to access on their tablets [when needed].
 **Objective:** Focus on listening skills and detailed comprehension, identifying key story elements.
 
 **📝 Checking Reading Comprehension (10 mins.)** 
@@ -79,9 +83,18 @@
 ### [Post-reading activity (10 mins.)]
 **👄 [Thinking Critically & Evaluating] (10 mins.)**
 
-**Activity:** Ss receive common critical thinking questions instead of a reading passage and record their responses, listening to their pronunciation and evaluating it.
-**App Functionality:** 
-**Objective:** Develop Ss' ability to express personal opinions in English by responding to critical thinking questions.
+**Activity:** Students receive common critical thinking questions instead of a reading passage and record their responses, listening to their pronunciation and evaluating it.
+**App Functionality:** The app has students write in English to respond to the question, record their responses and play them back for self-evaluation.
+**Objective:** Develop students' ability to express personal opinions in English and improve pronunciation and critical thinking skills.
+
+
+## Homework Assignment (Critical Thinking & Peer Feedback)
+
+**🔈&👄[Thinking Critically & Providing Peer Feedback]**
+
+**Activity:** Students listen to three recordings uploaded by classmates on the Padlet board titled "Upload your recording # 1" and choose one response to give feedback. They then record and upload their verbal feedback on the board titled "[HW] Upload your recording #2 (Peer Feedback)". 
+**App Functionality:** App #4 is used to record the feedback same as the process of the Post-reaing activity. Students upload their feedback to the Padlet board.
+**Objective:** Enhance evaluative and communication skills by providing constructive feedback to peers.
 
 
 ## Lesson Materials
