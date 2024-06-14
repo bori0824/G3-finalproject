@@ -4,7 +4,7 @@
 + Overview of the project here :-)
 
 ## Useful Links
-| 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1](https://huggingface.co/spaces/joonp30/flashcard) | 🔸 [APP#2](https://bori0824-ImageUnscrambling.hf.space) | 🔸 [APP#3](https://huggingface.co/spaces/hannah416/during_comprehension_test) | 🔸 [APP#4](https://jinggujiwoo7-speechfeedback.hf.space) |🔸 [Visual Material#1] |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://bori0824-multitts.hf.space) |
+| 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1](https://huggingface.co/spaces/joonp30/flashcard) | 🔸 [APP#2](https://huggingface.co/spaces/bori0824/ImageUnscrambling) | 🔸 [APP#3](https://huggingface.co/spaces/hannah416/during_comprehension_test) | 🔸 [APP#4](https://jinggujiwoo7-speechfeedback.hf.space) |🔸 [Visual Material#1] |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://huggingface.co/spaces/bori0824/StoryListening) |🔸 [Class Padlet](https://padlet.com/bori0824_1/g3-the-peddler-s-magic-seeds-ki70fzt0l3efj311) | 
 
 ## Lesson Plan
 
@@ -15,16 +15,16 @@
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
 |-------|---------------------------------------|--------------------| ----------------------|
-|   3   |       Icebreaking with the topic      | Visual Material #1 |        In class       |
+|   3   |       Icebreaking with the Topic      | Visual Material #1 |        In class       |
 |   7   |         Building Vocabulary           |        App #1      |        In pairs       |     
-|   5   |    Guessing the story with images     |        App #2      |        In pairs       |  
+|   5   |    Guessing the Story with Images     |        App #2      |        In pairs       |  
 |------ |---------------------------------------|--------------------| ----------------------|   
-|   5   |   Introduced the story with a video   | Visual Material #2 | Individual - In pairs |
-|  10   |   Understaning the story with audio   |  Audio Material #1 |        In class       |     
+|   5   |   Introduced the Story with a Video   | Visual Material #2 | Individual - In pairs |
+|  10   |   Understaning the Story with Audio   |  Audio Material #1 |        In class       |     
 |  10   |    Checking Reading Comprehension     |        App #3      |       Individual      | 
 |------ |---------------------------------------|--------------------| ----------------------|   
-|  10   |    Thinking critically & Evaluating   |        App #4      | Individual - In class |     
-|------ |---------------------------------------|--------------------| ----------------------| 
+|  10   |    Thinking Critically & Evaluating   |        App #4      | Individual - In class |     
+
 
 ## Lesson Objectives 
 + To engage with Interactive Digital Content
@@ -35,7 +35,7 @@
   
 ## Lesson Structure & Activities
 ### [Pre-reading activities (15 mins.)]
-**👊 Icebreaking with the topic (3 mins.)**
+**👊 Icebreaking with the Topic (3 mins.)**
 
 **Activity:** Ss share their experiences and thoughts related to the topic introduced by T.
 **App Functionality:**
@@ -47,7 +47,7 @@
 **App Functionality:** The app provides digital flashcards, interactive matching games, and quizzes that students can complete on their tablets.
 **Objective:** Introduce and practice key vocabulary related to the story, enhancing students’ vocabulary knowledge.
 
-**🎰 Guessing the story wiwth images (5 mins.)**
+**🎰 Guessing the Story with Images (5 mins.)**
 
 **Activity:** Ss guess the story with the images related to the story. 
 **App Functionality:** This application displays three WordCloud images meaning Intro, Body, and Conclusion and 6 random images of the story. Ss use their tablets to guess and discuss the story with peers and unscramble the random images in the right order after looking at the WordCloud imaages.
@@ -56,13 +56,13 @@
 
 
 ### [During-reading activities (25 mins.)]
-**💻 Introduced the Story with a video (5 mins.)** 
+**💻 Introduced the Story with a Video (5 mins.)** 
 
 **Activity:** Ss watch a teacher-created video of the full story, taking notes and paying attention to main characters, settings, and events.
 **App Functionality:** The video is played on [the interactive whiteboard], and students can access the video on their tablets for closer viewing.
 **Objective:** Provide an overview of the story and introduce the story through visual and auditory learning.
 
-**🔈Understanding the Story with audio (10 mins.)**
+**🔈Understanding the Story with Audio (10 mins.)**
 
 **Activity:** Ss listen to the story in segments and answering the questions provided by T to enhance comprehension on the plot and main elements.
 **App Functionality:** The app plays audio segments of the story [in class by T.] providing Ss with QR code to access on their tablets [when needed].
@@ -77,7 +77,7 @@
 
 
 ### [Post-reading activity (10 mins.)]
-**👄 [Thinking critically & Evaluating] (10 mins.)**
+**👄 [Thinking Critically & Evaluating] (10 mins.)**
 
 **Activity:** Ss receive common critical thinking questions instead of a reading passage and record their responses, listening to their pronunciation and evaluating it.
 **App Functionality:** 
@@ -93,3 +93,4 @@
 
 **<Synopsis>**
 In a quaint village surrounded by rolling hills, young Tom struggled with the tough soil in his family's garden. One day, a peddler arrived selling various items, including magical seeds. Tom purchased a packet and planted them in his garden. To everyone's surprise, the seeds grew into vibrant and lush plants, transforming the barren garden into a wonder. The remarkable growth of these plants brought the community together, with neighbors sharing seeds and gardening tips. Inspired by the peddler, Tom later became a peddler himself, spreading joy and community spirit by selling magic seeds to other villages. Tom's story became a symbol of how small acts of kindness and curiosity can lead to widespread beauty and unity.
+
