@@ -1,20 +1,22 @@
 # 📙 Group 3 Final project 
-+ Last updated (0614 by bori0824)
++ Last updated (0616 by bori0824)
 + Presentation is scheduled on June 18 (Tuesday)
 + Overview of the project here :-)
 
 ## Useful Links
 | 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1](https://huggingface.co/spaces/joonp30/flashcard) | 🔸 [APP#2](https://huggingface.co/spaces/bori0824/ImageUnscrambling) | 🔸 [APP#3](https://huggingface.co/spaces/hannah416/during_comprehension_test) | 🔸 [APP#4](https://jinggujiwoo7-speechfeedback.hf.space) |🔸 [Visual Material#1](https://huggingface.co/spaces/bori0824/GettingToKnowtheTopic) |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://huggingface.co/spaces/bori0824/StoryListening) |🔸 [Class Padlet](https://padlet.com/bori0824_1/g3-the-peddler-s-magic-seeds-ki70fzt0l3efj311) | 
 
-## Lesson Plan
+## Lesson Plan [Story 3 - The Peddeler's Magic Seeds]
 
-|             Grade            |     Proficiency Level (ACTFL)     |              Time Frame             |
-|------------------------------|-----------------------------------|-------------------------------------|
-|   Middle school 2<sup>nd </sup>grade    |         Intermediate-Low          |   50 mins.   (15 - 25 - 10 mins.)   |
 
-|            Story   |  Target vocabulary   |
+|            Story theme      |  Target vocabulary   |
 |-----------------------------|-----------------------------|
-| The Peddler's Magic Seeds|quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
+| Believe, Share, and Grow Together | quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
+
+
+|             Target Learners            |     Proficiency Level   |              Time Frame             |
+|------------------------------|-----------------------------------|-------------------------------------|
+|   2<sup>nd</sup>-graded Middle school students     |         Intermediate-Low          |   50 mins.   (15 - 25 - 10 mins.)   |
 
 
 |  Time |        Sequencing of Activities       |     Resources      |      Interactions     |
@@ -41,9 +43,9 @@
 ### [Pre-reading activities (15 mins.)]
 **👊 Icebreaking with the Topic (3 mins.)**
 
-**Activity:** Students share their experiences and thoughts related to the topic introduced by T. After looking at the topic-related images. Each student will look at the images and briefly describe what they see, what it reminds them of, or how they feel about the scenario depicted.
+**Activity:** Students share their experiences and thoughts related to the topic introduced by T. After looking at the topic-related images.
 **App Functionality:** The app displays the four images from Visual Material #1 and allows students to annotate or add comments to each image. Students can tap on an image and say a short comment about their thoughts and experiences related to that image.
-**Objective:** Encourage students to connect personally with the topic through visual material and facilitate a quick, engaging discussion that sets the stage for the story. This activity aims to activate prior knowledge and stimulate interest in the story by making personal and emotional connections with the visual content.
+**Objective:** Encourage students to connect personally with the topic through visual material and facilitate a quick, engaging discussion that sets the stage for the story.
 
 **🔤 Building Vocabulary (7 mins.)**
 
@@ -56,6 +58,8 @@
 **Activity:** Students guess the story with the images related to the story. 
 **App Functionality:** The app displays three WordCloud images meaning Intro, Body, and Conclusion and 6 random images of the story. Students use their tablets to guess and discuss the story with peers and unscramble the random images in the right order after looking at the WordCloud imaages.
 **Objective:** Encourage students to make predictions about the story and develop inferencing skills.
+
+
 
 
 
@@ -83,10 +87,9 @@
 ### [Post-reading activity (10 mins.)]
 **👄 [Thinking Critically & Evaluating] (10 mins.)**
 
-**Activity:** Students receive common critical thinking questions instead of a reading passage and record their responses, listening to their pronunciation and evaluating it.
+**Activity:** Students write responses to critical questions, record their answers, and practice speaking skills through self-assessment. 
 **App Functionality:** The app has students write in English to respond to the question, record their responses and play them back for self-evaluation.
-**Objective:** Develop students' ability to express personal opinions in English and improve pronunciation and critical thinking skills.
-
+**Objective:** Enhance English proficiency by responding to critical questions, recording responses, and self-assessing speaking abilities.
 
 ## Homework Assignment (Critical Thinking & Peer Feedback)
 
@@ -106,4 +109,3 @@
 
 **<Synopsis>**
 In a quaint village surrounded by rolling hills, young Tom struggled with the tough soil in his family's garden. One day, a peddler arrived selling various items, including magical seeds. Tom purchased a packet and planted them in his garden. To everyone's surprise, the seeds grew into vibrant and lush plants, transforming the barren garden into a wonder. The remarkable growth of these plants brought the community together, with neighbors sharing seeds and gardening tips. Inspired by the peddler, Tom later became a peddler himself, spreading joy and community spirit by selling magic seeds to other villages. Tom's story became a symbol of how small acts of kindness and curiosity can lead to widespread beauty and unity.
-
