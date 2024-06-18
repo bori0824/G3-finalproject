@@ -1,17 +1,17 @@
 # 📙 Group 3 Final project 
-+ Last updated (0616 by bori0824)
++ Last updated (0617 by bori0824)
 + Presentation is scheduled on June 18 (Tuesday)
 + Overview of the project here :-)
 
 ## Useful Links
-| 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding] | 🔸 [APP#1](https://huggingface.co/spaces/joonp30/flashcard) | 🔸 [APP#2](https://huggingface.co/spaces/bori0824/ImageUnscrambling) | 🔸 [APP#3](https://huggingface.co/spaces/hannah416/during_comprehension_test) | 🔸 [APP#4](https://jinggujiwoo7-speechfeedback.hf.space) |🔸 [Visual Material#1](https://huggingface.co/spaces/bori0824/GettingToKnowtheTopic) |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://huggingface.co/spaces/bori0824/StoryListening) |🔸 [Class Padlet](https://padlet.com/bori0824_1/g3-the-peddler-s-magic-seeds-ki70fzt0l3efj311) | 
+| 🔸[Emoji](https://gist.github.com/rxaviers/7360908) | 🔸[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 🔸[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story03.txt) | 🔸[Coding](https://github.com/oep-jwh/G3-finalproject/blob/main/FPG03.ipynb) | 🔸 [APP#1](https://huggingface.co/spaces/joonp30/flashcard) | 🔸 [APP#2](https://huggingface.co/spaces/bori0824/ImageUnscrambling) | 🔸 [APP#3](https://huggingface.co/spaces/hannah416/during_comprehension_test) | 🔸 [APP#4](https://jinggujiwoo7-speechfeedback.hf.space) |🔸 [Visual Material#1](https://huggingface.co/spaces/bori0824/GettingToKnowtheTopic) |🔸 [Visual Material#2](https://ai.invideo.io/watch/O5Q4fOeVnoH) |🔸 [Audio Material#1](https://huggingface.co/spaces/bori0824/StoryListening) |🔸 [Class Padlet](https://padlet.com/bori0824_1/g3-the-peddler-s-magic-seeds-ki70fzt0l3efj311) | 
 
 ## Lesson Plan [Story 3 - The Peddler's Magic Seeds]
 
 
-|            Story theme      |  Target vocabulary   |
-|-----------------------------|-----------------------------|
-| Believe, Share, and Grow Together | quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
+|           Target vocabulary      |  
+|-----------------------------|
+| quaint, explore, cheerful, peddler, curious, enthusiasm, skeptical, whisper |
 
 
 |             Target Learners            |     Proficiency Level   |              Time Frame             |
@@ -38,6 +38,10 @@
 + To strengthen Comprehension Skills
 + To develop Digital Proficiency
 + To experience a sustainable, paper-free learning environment
+
+|           Lesson Materials       |   Coding Apps. Used    | 
+|-----------------------------|-----------------------------|
+| Individual tablet for Ss, Projector, T's PC | Python, Gradio, Hugging Face  | 
   
 ## Lesson Structure & Activities
 ### [Pre-reading activities (15 mins.)]
@@ -96,6 +100,33 @@
 **App Functionality:** The [App #4] app is used to record the feedback, the same as the process of the Post-reading activity. Ss upload their feedback to the Padlet board.
 **Objective:** Enhance evaluative and communication skills by providing constructive feedback to peers.
 
+## [Conclusion]
+**[Advantages of Our Lesson with Online Applications:]**
++ Engagement and Interactivity
++ Accessibility and Inclusivity
++ Collaboration and Communication
++ Immediate Feedback and Scaffolding
+
+**[Limitations of Online-Based Learning Context]**
++ Technical Issues
++ Reduced Face-to-face Interaction
++ Distractions and Self-discipline
+
+**[Strategies to Overcome Limitations]**
++ Technical Support & Access to Technology
++ Blended Learning Approach
++ Enhance Self-discipline and Motivation
++ Promote Digital Literacy
+  
+## [Rationale]
+**[Pre-reading Activities]**
+Pre-reading activities are crucial for schema activation, which helps students connect new information to their existing knowledge base. Icebreaking fosters a low-anxiety environment (Krashen, 1982), promoting a positive affective filter that facilitates language acquisition. Vocabulary exercises enhance lexical competence (Nation, 2001), aiding in better comprehension and retention of key terms. Predicting the story through images engages students in inferencing, a critical thinking skill that promotes deeper cognitive processing and engagement (Harmer, 2007).
+
+**[During-reading Activities]**
+During-reading activities ensure active engagement and foster deeper interaction with the text (Brown, 2004). Utilizing multimedia resources aligns with the dual coding theory (Paivio, 1986), which posits that combining verbal and visual information enhances memory and learning. These activities cater to diverse learning styles, making the content more accessible and engaging. Immediate feedback provided during comprehension questions supports Vygotsky’s (1978) concept of the Zone of Proximal Development (ZPD), allowing students to receive timely scaffolding that reinforces learning and corrects misunderstandings.
+
+**[Post-reading Activities]**
+Post-reading activities and homework assignments reinforce learning by encouraging students to apply their knowledge critically and reflectively. Engaging in critical thinking and self-evaluation promotes metacognitive awareness, which is essential for self-regulated learning (Flavell, 1979). Peer feedback activities are grounded in social constructivism (Vygotsky, 1978), as they foster a collaborative learning environment where students construct knowledge through social interaction. This process helps develop evaluative and communication skills, essential for language proficiency and overall academic success.
 
 ## Lesson Materials
 
