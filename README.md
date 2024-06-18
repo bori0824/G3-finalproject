@@ -100,7 +100,7 @@
 **App Functionality:** The [App #4] app is used to record the feedback, the same as the process of the Post-reading activity. Ss upload their feedback to the Padlet board.
 **Objective:** Enhance evaluative and communication skills by providing constructive feedback to peers.
 
-## [Conclusion]
+## Conclusion
 **[Advantages of Our Lesson with Online Applications:]**
 + Engagement and Interactivity
 + Accessibility and Inclusivity
@@ -118,7 +118,7 @@
 + Enhance Self-discipline and Motivation
 + Promote Digital Literacy
   
-## [Rationale]
+## Rationale
 **[Pre-reading Activities]**
 Pre-reading activities are crucial for schema activation, which helps students connect new information to their existing knowledge base. Icebreaking fosters a low-anxiety environment (Krashen, 1982), promoting a positive affective filter that facilitates language acquisition. Vocabulary exercises enhance lexical competence (Nation, 2001), aiding in better comprehension and retention of key terms. Predicting the story through images engages students in inferencing, a critical thinking skill that promotes deeper cognitive processing and engagement (Harmer, 2007).
 
