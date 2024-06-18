@@ -1,5 +1,5 @@
 # 📙 Group 3 Final project 
-+ Last updated (0617 by bori0824)
++ Last updated (0618 by bori0824)
 + Presentation is scheduled on June 18 (Tuesday)
 + Overview of the project here :-)
 
@@ -99,6 +99,7 @@
 **Activity:** Ss listen to three recordings uploaded by classmates on the Padlet board titled "Upload your recording # 1" and choose one response to give feedback. They then record and upload their verbal feedback on the board titled "[HW] Upload your recording #2 (Peer Feedback)". 
 **App Functionality:** The [App #4] app is used to record the feedback, the same as the process of the Post-reading activity. Ss upload their feedback to the Padlet board.
 **Objective:** Enhance evaluative and communication skills by providing constructive feedback to peers.
+
 
 ## Conclusion
 **[Advantages of Our Lesson with Online Applications:]**
