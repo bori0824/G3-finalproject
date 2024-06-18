@@ -109,14 +109,14 @@
 
 **[Limitations of Online-Based Learning Context]**
 + Technical Issues
-+ Reduced Face-to-face Interaction
 + Distractions and Self-discipline
 
 **[Strategies to Overcome Limitations]**
 + Technical Support & Access to Technology
-+ Blended Learning Approach
-+ Enhance Self-discipline and Motivation
 + Promote Digital Literacy
++ Enhance Self-discipline and Motivation
++ Blended Learning Approach
+
   
 ## Rationale
 **[Pre-reading Activities]**
